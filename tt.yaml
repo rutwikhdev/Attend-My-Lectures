@@ -1,0 +1,56 @@
+Monday:
+  - Time: '10:00:00'
+    Subject: 'Digital Image Processing.'
+    Code: 'DIP'
+
+  - Time: '12:00:00'
+    Subject: 'Ethical Hacking.'
+    Code: 'ETH'
+
+Tuesday:
+  - Time: '07:30:00'
+    Subject: 'Cyber Forensics Practical'
+    Code: 'CF'
+
+  - Time: '10:00:00'
+    Subject: 'Ethical Hacking.'
+    Code: 'ETH'
+  
+  - Time: '12:00:00'
+    Subject: 'Digital Image processing'
+    Code: 'DIP'
+
+Wednesday:
+  - Time: '07:30:00'
+    Subject: 'Ethical Hacking Practical.'
+    Code: 'ETH'
+
+  - Time: '10:00:00'
+    Subject: 'Data Science.'
+    Code: 'DS'
+
+Thursday:
+  - Time: '07:30:00'
+    Subject: 'Data Science Practical.'
+    Code: 'DS'
+
+  - Time: '10:00:00'
+    Subject: 'Data Science.'
+    Code: 'DS'
+
+  - Time: '12:00:00'
+    Subject: 'Cyber Forensics.'
+    Code: 'CF'
+
+Friday:
+  - Time: '07:30:00'
+    Subject: 'Digital Image Processing Practical.'
+    Code: 'DIPP'
+
+  - Time: '10:00:00'
+    Subject: 'Cyber Forensics.'
+    Code: 'CF'
+
+  - Time: '12:00:00'
+    Subject: 'Data Science.'
+    Code: 'DS'

@@ -1,10 +1,13 @@
 # Script to attend my lectures on google meet
 
-I was finding it very difficult and annoying to find the meet codes or links between all the posts on classroom. So quickly put together 
+I was finding it very difficult and annoying to find the gmeet codes or links between all the posts on classroom. So quickly put together 
 this small but very useful script to help me take directly to the meet join in screen.
 
 ## Dependencies
+```
 selenium
+python
+```
 
 ## Note:
 If you want to use this script,
